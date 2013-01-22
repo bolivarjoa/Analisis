@@ -1,0 +1,1 @@
+c:\users\faustodavid\documents\visual studio 2012\Projects\SistemaInventario\SistemaInventario\bin\Debug\SistemaInventario.exe.config
